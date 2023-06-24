@@ -1,0 +1,7 @@
+C:\Users\boeza\Desktop\qiwi\MoneyToWordConvertTest.exe
+C:\Users\boeza\Desktop\qiwi\MoneyToWordConvertTest.dll
+C:\Users\boeza\Desktop\qiwi\MoneyToWordConvertTest.deps.json
+C:\Users\boeza\Desktop\qiwi\MoneyToWordConvertTest.runtimeconfig.json
+C:\Users\boeza\Desktop\qiwi\MoneyToWordConvertTest.pdb
+C:\Users\boeza\Desktop\qiwi\MoneyToWordConverter.dll
+C:\Users\boeza\Desktop\qiwi\MoneyToWordConverter.pdb

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "MoneyToWordConvertTest/1.0.0": {
+        "dependencies": {
+          "MoneyToWordConverter": "1.0.0"
+        },
+        "runtime": {
+          "MoneyToWordConvertTest.dll": {}
+        }
+      },
+      "MoneyToWordConverter/1.0.0": {
+        "runtime": {
+          "MoneyToWordConverter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MoneyToWordConvertTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MoneyToWordConverter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

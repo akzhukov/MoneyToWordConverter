@@ -1,0 +1,12 @@
+D:\github\Microservices\MoneyToWordConvertTest\MoneyToWordConverter\bin\Debug\net7.0\MoneyToWordConverter.deps.json
+D:\github\Microservices\MoneyToWordConvertTest\MoneyToWordConverter\bin\Debug\net7.0\MoneyToWordConverter.dll
+D:\github\Microservices\MoneyToWordConvertTest\MoneyToWordConverter\bin\Debug\net7.0\MoneyToWordConverter.pdb
+D:\github\Microservices\MoneyToWordConvertTest\MoneyToWordConverter\obj\Debug\net7.0\MoneyToWordConverter.csproj.AssemblyReference.cache
+D:\github\Microservices\MoneyToWordConvertTest\MoneyToWordConverter\obj\Debug\net7.0\MoneyToWordConverter.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\Microservices\MoneyToWordConvertTest\MoneyToWordConverter\obj\Debug\net7.0\MoneyToWordConverter.AssemblyInfoInputs.cache
+D:\github\Microservices\MoneyToWordConvertTest\MoneyToWordConverter\obj\Debug\net7.0\MoneyToWordConverter.AssemblyInfo.cs
+D:\github\Microservices\MoneyToWordConvertTest\MoneyToWordConverter\obj\Debug\net7.0\MoneyToWordConverter.csproj.CoreCompileInputs.cache
+D:\github\Microservices\MoneyToWordConvertTest\MoneyToWordConverter\obj\Debug\net7.0\MoneyToWordConverter.dll
+D:\github\Microservices\MoneyToWordConvertTest\MoneyToWordConverter\obj\Debug\net7.0\refint\MoneyToWordConverter.dll
+D:\github\Microservices\MoneyToWordConvertTest\MoneyToWordConverter\obj\Debug\net7.0\MoneyToWordConverter.pdb
+D:\github\Microservices\MoneyToWordConvertTest\MoneyToWordConverter\obj\Debug\net7.0\ref\MoneyToWordConverter.dll
